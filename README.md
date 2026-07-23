@@ -10,8 +10,8 @@ This project was built for learning purposes and as part of a personal portfolio
 
 
 ## 🖼️ Image Attribution
-The background image used in this banner comes from Canva  
-and is included under Canva’s non‑commercial license for educational and portfolio use.
+The included image is licensed from Canva’s design library.
+It is included here as part of the final project output and are not intended for separate download, reuse, or redistribution.
 
 ## ✨ Features
 🎨 Smooth animation created in Adobe Animate CC
